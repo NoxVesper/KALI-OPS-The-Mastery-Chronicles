@@ -1,2 +1,1 @@
-🕵️‍♂️DOCUMENTED OPERATIONS ON KALI LINUX
-By Rashid Iqbal | AI Red Teamer🛡️
+
